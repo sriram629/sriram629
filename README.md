@@ -8,7 +8,7 @@ I am a Master's student at **Auburn University at Montgomery** specializing in *
 
 ## 🚀 Featured Projects
 
-### 🤖 [Multimodal AI Chatbot](https://github.com/sriram629/AI-ChatBot.git)
+### 🤖 [Multimodal AI Chatbot](https://github.com/sriram629/Multimodal-AI-ChatBot.git)
 **A resilient AI agent with multimodal intent detection and multi-LLM failover.**
 - 🔗 **[Live Demo](https://ai-chatbot-frontend-yq89.onrender.com)** | 💻 **[Source Code](https://github.com/sriram629/Multimodal-AI-ChatBot.git)**
 - 🛠 **Stack:** React, TypeScript, FastAPI, MongoDB, WebSockets.
@@ -27,7 +27,7 @@ I am a Master's student at **Auburn University at Montgomery** specializing in *
 - 🔒 **Security:** Implemented **JWT Authentication**, Bcrypt hashing, and backend middleware for **Rate-Limiting and Throttling**.
 
 
-### 🧠 [Dynamic Quiz Platform ](https://github.com/sriram629/Quiz-app.git)
+### 🧠 [Dynamic Quiz Platform ](https://github.com/sriram629/Dynamic-Quiz-Platform.git)
 **Dynamic knowledge-testing platform with precision timing and accessibility.**
 - 🔗 **[Live Demo](https://quiz-app-tau-rose.vercel.app/)** | 💻 **[Source Code](https://github.com/sriram629/Dynamic-Quiz-Platform.git)**
 - 🛠 **Stack:** React, JavaScript, Vite, OpenTDB API.
@@ -36,7 +36,7 @@ I am a Master's student at **Auburn University at Montgomery** specializing in *
 
   
 
-### 🎥 [Browser-Based Media Capture System](https://github.com/sriram629/Screen_Recorder.git)
+### 🎥 [Browser-Based Media Capture System](https://github.com/sriram629/Browser-Based-Media-Capture-System.git)
 **Browser-based media capture utility utilizing native Web Media APIs.**
 - 🔗 **[Live Demo](https://sriram629.github.io/Browser-Based-Media-Capture-System/)** | 💻 **[Source Code](https://github.com/sriram629/Browser-Based-Media-Capture-System.git)**
 - 🛠 **Stack:** JavaScript, Node.js, Express, MongoDB.
