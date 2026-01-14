@@ -10,7 +10,7 @@ I am a Master's student at **Auburn University at Montgomery** specializing in *
 
 ### 🤖 [Multimodal AI Chatbot](https://github.com/sriram629/AI-ChatBot.git)
 **A resilient AI agent with multimodal intent detection and multi-LLM failover.**
-- 🔗 **[Live Demo](https://ai-chatbot-frontend-yq89.onrender.com)** | 💻 **[Source Code](https://github.com/sriram629/AI-ChatBot.git)**
+- 🔗 **[Live Demo](https://ai-chatbot-frontend-yq89.onrender.com)** | 💻 **[Source Code](https://github.com/sriram629/Multimodal-AI-ChatBot.git)**
 - 🛠 **Stack:** React, TypeScript, FastAPI, MongoDB, WebSockets.
 - ⚡ **LLM Orchestration:** Engineered a "Waterfall" failover system: **Gemini Pro** (Primary) → **Groq** (Secondary) → **Mistral** (Tertiary) to ensure 100% service uptime.
 - 🏗️ **Hybrid RAG:** Implemented **MongoDB Atlas Vector Search** for semantic memory and **Gemini Function Calling** for real-time web-augmentation via **SerpAPI**.
@@ -29,7 +29,7 @@ I am a Master's student at **Auburn University at Montgomery** specializing in *
 
 ### 🧠 [Dynamic Quiz Platform ](https://github.com/sriram629/Quiz-app.git)
 **Dynamic knowledge-testing platform with precision timing and accessibility.**
-- 🔗 **[Live Demo](https://quiz-app-tau-rose.vercel.app/)** | 💻 **[Source Code](https://github.com/sriram629/Quiz-app.git)**
+- 🔗 **[Live Demo](https://quiz-app-tau-rose.vercel.app/)** | 💻 **[Source Code](https://github.com/sriram629/Dynamic-Quiz-Platform.git)**
 - 🛠 **Stack:** React, JavaScript, Vite, OpenTDB API.
 - ⚡ **Real-Time UX:** Features a synchronized **30-second countdown timer** and a post-exam review module for performance analytics.
 - 🔈 **Accessibility:** Integrated audio-tactile feedback cues for timer warnings and user selections.
@@ -38,7 +38,7 @@ I am a Master's student at **Auburn University at Montgomery** specializing in *
 
 ### 🎥 [Browser-Based Media Capture System](https://github.com/sriram629/Screen_Recorder.git)
 **Browser-based media capture utility utilizing native Web Media APIs.**
-- 🔗 **[Live Demo](https://sriram629.github.io/Screen_Recorder/)** | 💻 **[Source Code](https://github.com/sriram629/Screen_Recorder.git)**
+- 🔗 **[Live Demo](https://sriram629.github.io/Browser-Based-Media-Capture-System/)** | 💻 **[Source Code](https://github.com/sriram629/Browser-Based-Media-Capture-System.git)**
 - 🛠 **Stack:** JavaScript, Node.js, Express, MongoDB.
 - 📼 **Media Streams:** Leveraged the **MediaRecorder API** to fuse `getDisplayMedia` and `getUserMedia` for synchronized screen and microphone recording.
 - 💾 **Local Processing:** Utilized **Blob objects** and `URL.createObjectURL` for instant local video encoding and downloads.
