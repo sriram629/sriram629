@@ -6,6 +6,20 @@ I am a Master's student at **Auburn University at Montgomery** specializing in *
 
 ---
 
+## 💼 Professional Experience
+
+### Software Development Engineer Intern @ Eficens Systems
+**March 2024 – February 2025 | Remote**
+
+- 🤖 **Trusynth AI Platform**: Developed enterprise generative AI training platform utilizing GPT models and Chroma DB, streamlining onboarding and knowledge transfer for corporate clients
+- ☁️ **AWS Cost Optimization**: Consolidated 14 microservice containers into 4 optimized primary containers, achieving 40% reduction in infrastructure costs
+- 🏗️ **Architecture Migration**: Led core service migration from Express.js to Nest.js, enhancing code organization, type safety, and maintainability
+- 🔒 **Assessment Portal**: Engineered high-concurrency online examination platform using Python FastAPI with AWS Cognito OAuth2.0 and RBAC
+- 🚀 **DevOps & CI/CD**: Established automated GitHub Actions pipelines for seamless AWS deployment with zero-downtime releases
+- 🛠️ **Tech Stack**: React, Node.js, Nest.js, Python FastAPI, AWS (S3, Route 53, VPC, Cognito), VectorDB, MongoDB
+
+---
+
 ## 🚀 Featured Projects
 
 ### 🤖 [Multimodal AI Chatbot](https://github.com/sriram629/Multimodal-AI-ChatBot)
