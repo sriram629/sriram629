@@ -73,5 +73,6 @@ I am a Master's student at **Auburn University at Montgomery** specializing in *
 
 ## 📫 Let's Connect
 - **LinkedIn:** [linkedin.com/in/srirama-krishna-maddipati](https://www.linkedin.com/in/srirama-krishna-maddipati/)
+- **Contact:** (+1 334 294 9767)
 - **Email:** maddipatisriramakrishna@gmail.com
 - **Current Goal:** 🚀 Seeking 2026 Internship & 2027 Grad roles in AI Engineering & Full-Stack Development
